@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "js-md5": "^0.7.3",
+    "md5": "^2.3.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
